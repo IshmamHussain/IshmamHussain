@@ -7,12 +7,8 @@
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Curious+explorer+%26+continuous+learner;Always+diving+into+new+tech;Building+and+experimenting+daily." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Curious+explorer+%26+continuous+learner;Always+diving+into+new+tech;Building+and+experimenting+frequently." alt="Typing SVG" />
 </a>
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=IshmamHussain&style=flat-square&color=36BCF7)](https://github.com/IshmamHussain)
 
 </div>
 
@@ -24,11 +20,12 @@
 - 💡 Continuous learner experimenting with new tools, frameworks, and low-level concepts.
 - 💻 Currently building projects and exploring better ways to solve technical problems.
 - 📫 Open to discussions, collaborations, or just talking tech.
-
 ---
 
-### 🌟 3D Contribution Graph
+### 🛠️ Languages and Tools
 
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
-</div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,c,cpp,mysql,python,influxdb" alt="My Skills" />
+  </a>
+</p>
