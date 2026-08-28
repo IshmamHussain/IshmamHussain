@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&text=Ishmam%20Hussain%20Chowdhury&fontSize=42&fontAlignY=38&animation=twinkling&height=220&fontColor=ffffff" width="100%" alt="Header Banner" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 
-<br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Curious+explorer+%26+continuous+learner;Always+diving+into+new+tech;Building+and+experimenting+frequently." alt="Typing SVG" />
@@ -14,7 +12,15 @@
 
 ---
 
-### 🛠️ Tools
+### 👾 GitHub Stats
+
+<div align="center">
+  <img src="https://pixel-profile.vercel.app/api/github-stats-crt?username=IshmamHussain&hide=avatar,stars" alt="Pixel GitHub Stats CRT" />
+</div>
+
+
+
+### 🛠️ My Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
