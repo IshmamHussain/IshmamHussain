@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -30,11 +30,4 @@
   <br/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/influxdb-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" alt="InfluxDB" />
-</div>
----
-
-### 👾 GitHub Stats
-
-<div align="center">
-  <img src="https://pixel-profile.vercel.app/api/github-stats?username=IshmamHussain&hide=stars,issues,prs&theme=dracula" alt="Pixel GitHub Stats" />
 </div>
