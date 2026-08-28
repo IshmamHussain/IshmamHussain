@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=100&background=161b22&lines=Hi,+My+name+is+Ishmam;Welcome+to+my+profile" alt="Typing SVG Name" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,50,100&text=Ishmam%20Hussain%20Chowdhury&fontSize=42&fontAlignY=38&animation=twinkling&height=220&fontColor=ffffff" width="100%" alt="Header Banner" />
+
+<img src="https://media.tenor.com/pZqN-3eI-V0AAAAC/playstation-portable-psp.gif" width="400" alt="PSP Wave Background" />
 
 
 <br/><br/>
