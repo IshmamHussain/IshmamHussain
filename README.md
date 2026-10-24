@@ -24,7 +24,12 @@
 
 ---
 
+### 🌐 Socials:
 
+<a href="https://www.linkedin.com/in/ishmam-hussain/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik00Ljk4IDMuNWMwIDEuMzgxLTEuMTEgMi41LTIuNDggMi41cy0yLjQ4LTEuMTE5LTIuNDgtMi41YzAtMS4zOCAxLjExLTIuNSAyLjQ4LTIuNXMyLjQ4IDEuMTIgMi40OCAyLjV6bS4wMiA0LjVoLTV2MTZoNXYtMTZ6bTcuOTgyIDBoLTQuOTY4djE2aDQuOTY5di04LjM5OWMwLTQuNjcgNi4wMjktNS4wNTIgNi4wMjkgMHY4LjM5OWg0Ljk4OHYtMTAuMTMxYzAtNy44OC04LjkyMi03LjU5My0xMS4wMTgtMy43MTR2LTIuMTU1eiIvPjwvc3ZnPg%3D%3D&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://ishmam-hussain.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=plastic&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8%2BPGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4%3D&logoColor=white" alt="Portfolio" /></a>
+
+---
 
 ### 🛠️ My Tech Stack
 
